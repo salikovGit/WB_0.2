@@ -1,0 +1,15 @@
+setup.py
+app/__init__.py
+app/crud.py
+app/database.py
+app/main.py
+app/models.py
+app/schemas.py
+app/api/__init__.py
+app/api/v1/__init__.py
+app/api/v1/wildberries.py
+app/api/v1/endpoints/__init__.py
+wildberries_project.egg-info/PKG-INFO
+wildberries_project.egg-info/SOURCES.txt
+wildberries_project.egg-info/dependency_links.txt
+wildberries_project.egg-info/top_level.txt
